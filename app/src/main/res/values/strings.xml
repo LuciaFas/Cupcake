@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">T3a1-Fasanar-Lucia</string>
+    <string name="cupcakes">Cupcakes</string>
+    <string name="descripcion_content">una receta ideal para iniciarse con los cupcakes, con la que preparar unos ricos cupcakes de vainilla con cobertura de buttercream, cobertura de la que os proponemos tres versiones</string>
+    <string name="ingredientes_content">- 165 gramos de harina de reposteria\n- 165 gramos de mantequilla sin sal\n- 165 gramos de azúcar\n- 15 ml de esencia de vainilla\n- 50 ml de leche\n- 5 gramos de levadura\n- 3 huevos medianos</string>
+    <string name="receta_content">Una vez que tenemos el horno en marcha, y todos nuestros ingredientes metidos y pesados, vamos a comenzar a preparar la base de nuestros cupcakes. Nosotros empleamos una amasadora automatica, pero se puede emplear también unas varillas manuales o un robot de cocina, lo que os resulte más comodo dentro de lo que dispongáis.</string>
+    <string name="autor">Autor</string>
+    <string name="descripcion">Descripción</string>
+    <string name="titulo_ingredientes">Ingredientes</string>
+    <string name="titulo_receta">Receta</string>
+</resources>
